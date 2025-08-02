@@ -34,10 +34,6 @@ A full-stack Optical Character Recognition (OCR) application that allows users t
 
 ---
 
-## 🛠️ Installation & Setup
 
-### 📁 Clone the Repository
-
-```bash
 
 
